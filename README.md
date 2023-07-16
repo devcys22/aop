@@ -12,3 +12,6 @@
 <h3>AOP 구현6 - 어드바이스 종류</h3>
 <img src="https://github.com/devcys22/aop/assets/78769412/4dd2d22f-bdd1-415d-a156-d9752869f6e2">
 <a href="https://dev22.tistory.com/232">제약의 중요성</a>
+
+<h3>AOP 포인트컷</h3>
+execution(접근제어자? 반환타입 선언타입?메서드이름(파라미터) 예외?)
