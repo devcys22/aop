@@ -15,3 +15,8 @@
 
 <h3>AOP 포인트컷</h3>
 execution(접근제어자? 반환타입 선언타입?메서드이름(파라미터) 예외?)
+
+<h3>AOP 실무주의사항</h3>
+<img src="https://github.com/devcys22/aop/assets/78769412/558f0d13-2aba-4001-a994-68fa8cfb979d">
+프록시 방식의 AOP 한계 - 프록시 방식의 AOP는 메서드 내부 호출에 프록시를 적용할 수 없다. 
+
