@@ -1,4 +1,6 @@
-![image](https://github.com/devcys22/aop/assets/78769412/653ea5ee-906f-4aba-8324-271e7dc26d3d)# aop
+# aop
+
+![image](https://github.com/devcys22/aop/assets/78769412/653ea5ee-906f-4aba-8324-271e7dc26d3d)
 <h3>AOP 구현1 - 기본</h3>
 <img src="https://github.com/devcys22/aop/assets/78769412/d1772376-dbce-4037-b966-8604c24bdbbf">
 
@@ -22,6 +24,16 @@ execution(접근제어자? 반환타입 선언타입?메서드이름(파라미�
 
 <h4>대안1 자기 자신 주입</h4>
 <img src="https://github.com/devcys22/aop/assets/78769412/d90c6069-cb55-47bd-8e96-2fdc6bdd1b20">
-
+김영한 스프링 핵심원리 - 고급편
 <img src="https://github.com/devcys22/aop/assets/78769412/fe05a8d5-a3f3-4f50-aa97-0f8eded23755">
 
+<h4>대안2 지연 조회</h4>
+<img src="https://github.com/devcys22/aop/assets/78769412/21ffee95-51dd-4b9d-9d27-3c8fd117ad91">
+
+<h4>대안3 구조 변경</h4>
+<img src="https://github.com/devcys22/aop/assets/78769412/d9cb77c8-8340-421d-bc63-4134646823b1">
+
+![image](https://github.com/devcys22/aop/assets/78769412/17818d1c-39ad-45eb-8f80-2c4df4232401)
+
+<h3>스프링의 해결책</h3>
+#CGLIB 프록시 기본 사용
