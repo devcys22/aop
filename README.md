@@ -1,4 +1,4 @@
-# aop
+![image](https://github.com/devcys22/aop/assets/78769412/653ea5ee-906f-4aba-8324-271e7dc26d3d)# aop
 <h3>AOP 구현1 - 기본</h3>
 <img src="https://github.com/devcys22/aop/assets/78769412/d1772376-dbce-4037-b966-8604c24bdbbf">
 
@@ -19,4 +19,9 @@ execution(접근제어자? 반환타입 선언타입?메서드이름(파라미�
 <h3>AOP 실무주의사항</h3>
 <img src="https://github.com/devcys22/aop/assets/78769412/558f0d13-2aba-4001-a994-68fa8cfb979d">
 프록시 방식의 AOP 한계 - 프록시 방식의 AOP는 메서드 내부 호출에 프록시를 적용할 수 없다. 
+
+<h4>대안1 자기 자신 주입</h4>
+<img src="https://github.com/devcys22/aop/assets/78769412/d90c6069-cb55-47bd-8e96-2fdc6bdd1b20">
+
+<img src="https://github.com/devcys22/aop/assets/78769412/fe05a8d5-a3f3-4f50-aa97-0f8eded23755">
 
